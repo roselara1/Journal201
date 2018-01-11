@@ -1,0 +1,3 @@
+Tonight we worked on learning to use git, creating files in VS Code and preparing for our second lab assignment. Since we had gone over time on the first day, and used it on the second day, it was nice to be give some extra lab time tonight. I am still getting used to using VS Code but it is pretty good at making things neat and aligned. I'm still getting used to using git. Hopefully this journal will be good practice.
+
+-Rosie
