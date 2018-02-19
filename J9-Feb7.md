@@ -1,0 +1,1 @@
+Learning about debuggin in class got me thinking that it is probably the kind of job best suited for developers with many years of experience. I can imagine how frustrating it must be for them to do their job. I know a lot of people like being challenged but maybe that is too much? Haha
