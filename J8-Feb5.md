@@ -1,0 +1,1 @@
+As the weeks pass I can feel that I am actually starting to know what I'm doing. I'm still working really long hours just trying to get one thing to work, and fixing (debugging) my code takes forever, but hopefully I will be faster at that later on.
