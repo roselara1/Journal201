@@ -1,0 +1,1 @@
+I'm feeling happy that the About Me project is finished now. I hope to create more fun web pages like that. It seemed to take a long time to think about the questions so hopefull that gets easier as well.
