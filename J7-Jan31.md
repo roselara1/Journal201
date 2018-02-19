@@ -1,0 +1,1 @@
+Lectures are the best way for me to understand what I read during the week. However, there are some nights that I would like to be able to discuss with my peers the readings, right after lecture, insead of taking away their coding time during co-working nights.
